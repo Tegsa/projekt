@@ -1,0 +1,95 @@
+.logo {
+    float: left;
+        width: 80px;
+        height: 60px;
+    
+    }
+    
+    
+    .tło {
+      opacity: 0.85;
+      background: url(zdjecia/1.jpg);
+          background-repeat: repeat;
+    }
+   
+    
+    body {
+        background-image: url(zdjecia/1.jpg);
+    }
+    
+    .nres {
+        color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-bottom: 40px;
+    }
+    
+    
+    .rejestracja {
+    color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+   
+    
+        }
+        
+        .rejestracja2 {
+            color: beige;
+            margin-left: auto;
+            margin-right: auto;
+            width: 15%;
+           
+            
+                }
+        
+        .topnav {
+            background-color: white;
+            overflow: hidden;
+            
+        }
+    
+    
+    
+        .topnav a {
+            float: left;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+          }
+          .btn 
+          {
+              color: beige;
+       
+              width: 150px;
+          }
+          .d1
+           {
+            
+                color: beige;
+                margin-left: auto;
+                margin-right: auto;
+                width: 15%;
+             
+          }
+          .h1
+          {
+       margin-top: 10%;
+            color: beige;
+            margin-left: 35%;
+            margin-right: auto;
+            margin-bottom: 30px;
+          
+            
+            }
+          .d5 
+          {
+            color: beige;
+            margin-left: auto;
+            margin-right: auto;
+            width: 20%;
+            margin-bottom: 40px;
+          }
